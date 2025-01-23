@@ -1,5 +1,5 @@
 import axios from "axios";
-import {API_KEY_PARAM, BASE_URL, BACKDROP_BASE_URL} from '../config';
+import {API_KEY_PARAM, BASE_URL} from '../config';
 
 export class TvShowAPI {
     static async fetchPopulars() {

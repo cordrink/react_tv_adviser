@@ -1,6 +1,5 @@
 import React from 'react';
-import s from './style.module.css';
-import {Star, Star as StarEmpty, StarFill, StarHalf} from "react-bootstrap-icons";
+import {Star as StarEmpty, StarFill, StarHalf} from "react-bootstrap-icons";
 
 function FiveStarRating({rating}) {
     // Déclarer un tableau d'étoiles (jsx) vide
