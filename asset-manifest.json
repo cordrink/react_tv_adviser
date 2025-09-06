@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_tv_adviser/static/css/main.5be6e475.css",
+    "main.js": "/react_tv_adviser/static/js/main.a06b2f58.js",
+    "index.html": "/react_tv_adviser/index.html",
+    "main.5be6e475.css.map": "/react_tv_adviser/static/css/main.5be6e475.css.map",
+    "main.a06b2f58.js.map": "/react_tv_adviser/static/js/main.a06b2f58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be6e475.css",
+    "static/js/main.a06b2f58.js"
+  ]
+}
